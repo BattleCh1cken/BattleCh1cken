@@ -21,7 +21,7 @@
   <br/>
 </details>
         
-        <details> 
+<details> 
   <summary>My Most Used Languages</summary>
   <br/>
           <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BattleCh1cken&layout=compact&hide_border=true&theme=nord"/>
