@@ -5,8 +5,8 @@
             <b>
             Hello There
         <br>
-            I'm BattleCh1cken.\n
-            I like Linux.\n
+            I'm BattleCh1cken.<br>
+            I like Linux.<br>
             </b>
         <br>
 
