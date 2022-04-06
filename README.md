@@ -11,7 +11,7 @@
 
 
           
-          <!-- Github Stats -->
+<!-- Github Stats -->
 <p align="center">
     <samp>
 <details>
