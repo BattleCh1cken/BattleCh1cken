@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @BattleCh1cken
+<!-- Profile -->
+<p align="left"><strong><samp>「</samp></strong></p>
+    <p align="center">
+      <samp><br>
+            <b>
+            Hello There
+        <br>
+            I'm BattleCh1cken, a Student, and Linux enthusiast.
+            </b>
+        <br>
 
-Feed me dotfiles.
 
-<!---
-BattleCh1cken/BattleCh1cken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
