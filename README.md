@@ -14,5 +14,4 @@
       
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BattleCh1cken&layout=compact&theme=github_dark)](https://github.com/BattleCh1cken)
           
-### Badges
-[![@battlech1cken's Holopin board](https://holopin.io/api/user/board?user=battlech1cken)](https://holopin.io/@battlech1cken)
+
